@@ -1,1 +1,3 @@
-static/* linguist-vendored
+*.swift linguist-detectable=true
+
+*objective-c linguist-detectable=false
